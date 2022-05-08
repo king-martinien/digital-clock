@@ -1,0 +1,3 @@
+C:/Users/King-Martinien/CLionProjects/digital-clock/cmake-build-debug/CMakeFiles/digital_clock.dir
+C:/Users/King-Martinien/CLionProjects/digital-clock/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/King-Martinien/CLionProjects/digital-clock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
