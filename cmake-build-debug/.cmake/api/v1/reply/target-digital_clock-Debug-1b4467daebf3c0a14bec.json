@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "digital_clock.exe"
-		},
-		{
-			"path" : "digital_clock.pdb"
+			"path" : "digital_clock"
 		}
 	],
 	"backtrace" : 1,
@@ -71,16 +68,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "C"
 	},
 	"name" : "digital_clock",
-	"nameOnDisk" : "digital_clock.exe",
+	"nameOnDisk" : "digital_clock",
 	"paths" : 
 	{
 		"build" : ".",
